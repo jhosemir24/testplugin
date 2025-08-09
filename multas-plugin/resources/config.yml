@@ -1,0 +1,12 @@
+multas:
+  presets:
+    romper_bloque:
+      precio: 100
+      razon: "Romper bloque protegido"
+    insulto:
+      precio: 50
+      razon: "Insulto a otro jugador"
+
+permissions:
+  multas.use: true
+  multas.admin: false
